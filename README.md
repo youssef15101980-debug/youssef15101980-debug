@@ -40,7 +40,7 @@ Welcome to my GitHub! I am a 2nd-year CS student with a strong passion for softw
 
 ### 🏆 Featured Projects
 * **[💊 Pharma Sales Data Dashboard](https://github.com/youssef15101980-debug/Pharma-Sales-Analysis):** Analyzed 600K+ transactional records and built an interactive Power BI dashboard to help pharmacy operations track revenue and optimize inventory.
-* **[🔍 Job Finder Application](https://maher2005.pythonanywhere.com/):**🔍 Full-Stack Job Finder Platform: Engineered and deployed a dynamic job search web application using Python, Django, and SQLite. Architected a responsive front-end (HTML/CSS/JS) and implemented a secure backend admin dashboard for real-time job listing management. Successfully handled end-to-end deployment and server configuration on PythonAnywhere.
+* **[🔍 Job Finder Application](https://maher2005.pythonanywhere.com/):🔍 Full-Stack Job Finder Platform: Engineered and deployed a dynamic job search web application using Python, Django, and SQLite. Architected a responsive front-end (HTML/CSS/JS) and implemented a secure backend admin dashboard for real-time job listing management. Successfully handled end-to-end deployment and server configuration on PythonAnywhere.
 
 
 <br>
