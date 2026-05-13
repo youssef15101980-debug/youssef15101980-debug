@@ -40,7 +40,7 @@ Welcome to my GitHub! I am a 2nd-year CS student with a strong passion for softw
 
 ### 🏆 Featured Projects
 * **[💊 Pharma Sales Data Dashboard](https://github.com/youssef15101980-debug/Pharma-Sales-Analysis):** Analyzed 600K+ transactional records and built an interactive Power BI dashboard to help pharmacy operations track revenue and optimize inventory.
-* **[🔍 Job Finder Application](https://github.com/biilal69/JobFinder):** Collaborated with a team to architect and deploy a responsive job search platform using HTML, CSS, and JS.
+* **[🔍 Job Finder Application](https://maher2005.pythonanywhere.com/):** Collaborated with a team to architect and deploy a responsive job search platform using HTML, CSS, and JS.
 
 
 <br>
